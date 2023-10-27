@@ -17,3 +17,5 @@ Excecute the following. You can pass additional COMMANDLINE_ARGS as needed
 ngrok_token = "NGROK_TOKEN" ARGS = f"--ngrok {ngrok_token}" !COMMANDLINE_ARGS="$ARGS" REQS_FILE="requirements.txt" python launch.py
 ```
 
+
+![](https://github.com/shashankmcode/Stable-Diffusion-on-kaggle/raw/main/stable-diffusion-webui/Screenshot%202023-10-27%20104647.png)
