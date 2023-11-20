@@ -1,4 +1,4 @@
-Sign up for a Kaggle account by visiting [kaggle](https://www.kaggle.com/) Make sure to verify your email and phone number.
+Sign up for a Kaggle account by visiting [kaggle](https://www.kaggle.com/) Make sure to verify your email and phone number(you get 30hr free tesla T4 gpu for free :))
 
 Register for a Ngrok account at[Ngrok](https://ngrok.com/) and copy your AUTH token.
 
